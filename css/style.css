@@ -69,6 +69,7 @@ a:hover{
   margin-top: 15px;
 }
 
+<<<<<<< HEAD
 ul {
   float: right;
   margin-top: 20px;
@@ -78,4 +79,8 @@ li {
   float: right;
   margin-top: 50px;
   font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 1.6em; margin-bottom: 6px;
+=======
+span {
+  font-size: 45; 
+>>>>>>> origin/gh-pages
 }
