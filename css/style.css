@@ -17,25 +17,7 @@ img { border: 0; max-width: 100%; }
 a { color: #5582d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/** @group core layout **/
-#w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #fff; min-width: 260px; max-width: 900px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
-
 header { width: 100%; }
-
-/** @group personal settings **/
-#info { float: left; margin-bottom: 12px; }
-#photo { float: right; }
-#photo img {
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
-border-radius: 3px;
--webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
--moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-background-color: #fff;
-border: 1px solid #ccc;
-padding: 5px;
-}
 
 /** @group skills **/
 #skills-left { display: block; float: left; margin-right: 30px; }
@@ -69,18 +51,20 @@ a:hover{
   margin-top: 15px;
 }
 
-<<<<<<< HEAD
-ul {
+ul li {
   float: right;
   margin-top: 20px;
   font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 2.6em; margin-bottom: 6px;
 }
-li {
-  float: right;
-  margin-top: 50px;
-  font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 1.6em; margin-bottom: 6px;
-=======
+
 span {
-  font-size: 45; 
->>>>>>> origin/gh-pages
+  float: right;
+  margin-top: 20px;
+  font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 1.6em; margin-bottom: 6px;
+}
+
+.span > p {
+  float: right;
+  margin-top: 20px;
+  font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 1.6em; margin-bottom: 6px;
 }
