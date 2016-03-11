@@ -5,7 +5,7 @@ footer {
 body{
   font-family: sans-serif;
 }
-h1 {
+.curriculum > .col > h1 {
   text-align: center;
   border-bottom: 2px solid #000;
 }
@@ -14,7 +14,12 @@ h1 {
   float: right;
 }
 
-.dados > imagem {
+.dados > image  {
   float: right;
   max-height: 100px;
+}
+
+.dadosprofissional > h1 {
+  text-align: center;
+  border-style: ridge;
 }
