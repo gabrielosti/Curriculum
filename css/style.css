@@ -3,8 +3,10 @@ body{
 }
 h1 {
   text-align: center;
+  border-bottom: 2px solid #000;
 }
 
 .eu {
-  max-height: 250px;
+  max-height: 100px;
+  float: right;
 }
