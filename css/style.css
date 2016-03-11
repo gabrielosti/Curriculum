@@ -10,3 +10,7 @@ h1 {
   max-height: 100px;
   float: right;
 }
+
+.dadosprincipais > p {
+  float: right;
+}
