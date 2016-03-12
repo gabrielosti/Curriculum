@@ -31,6 +31,10 @@
 }
 
 .container > .final > h1 {
-  float:right;
-  font-size: 20px;
+  font-size: 15px;
+}
+
+.cfixed {
+  position: fixed;
+  top: 0;
 }
