@@ -1,5 +1,5 @@
-.cont > .curriculum > .col > .h1 {
-    font-family: sans-serif;
+.col {
+    font-family: sans-serif;3
 }
 
 .cont {
@@ -8,6 +8,14 @@
   border-left: 3px solid #000;
   background: rgba(235,233,249,1);
   min-height: 100%;
+}
+
+.imprimir {
+  float: right;
+}
+
+.glyphicon-print {
+  font-size: 35px;
 }
 
 .curriculum > .col > h1 {
