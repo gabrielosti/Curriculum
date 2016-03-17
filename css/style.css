@@ -110,3 +110,11 @@
   background-color: black;
   color: white;
 }
+
+hr {
+  padding-bottom: 0,5px;
+  padding-top: 0,5px;
+  color: #f00;
+  background-color: #f00;
+  height: 2px;
+}
